@@ -1,0 +1,10 @@
+neovim 0.9:
+https://github.com/neovim/neovim/releases/download/v0.9.0/nvim-linux64.tar.gz
+
+nvchad config:
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+
+Tarball
+Download nvim-linux64.tar.gz
+Extract: tar xzvf nvim-linux64.tar.gz
+Run ./nvim-linux64/bin/nvim
